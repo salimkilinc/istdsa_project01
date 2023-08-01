@@ -6,4 +6,7 @@ WomenTechWomenYes (WTWY), which aims to increase women's participation in techno
 You can visit the source of our data on the following page: https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s
 The dataset is updated every month. We imported our version in June.
 
-You can check out the whole analysis by reviewing the project notebook or you can read my first article on Medium for explanations: 
+You can check out our presentation file on the following page: https://www.canva.com/design/DAFoiwqNmpU/jHtZYJ0nBFfftYflyPOr7w/edit
+The presentation file contains some parts of my colleagues' work which you cannot find on my notebook.
+
+You can check out the whole analysis by reviewing the project notebook or you can read my first article on Medium for explanations: https://medium.com/@salimkilinc/my-hello-world-to-data-science-14aa36f9d29c
