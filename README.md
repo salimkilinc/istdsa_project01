@@ -3,3 +3,7 @@ In the Data Science Bootcamp of Istanbul Data Science Academy, which I attended 
 
 WomenTechWomenYes (WTWY), which aims to increase women's participation in technology, organises an annual gala every year at the beginning of the summer season and wants to collect the highest donation possible by maximising attendance at this year's gala. In this project, which we simply call '2023 Summer Gala, Women Tech Women Yes', we aim to make an exploratory data analysis on MTA subway data and advise the association on which stations they should focus on ticket distribution near.
 
+You can visit the source of our data on the following page: https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s
+The dataset is updated every month. We imported our version in June.
+
+You can check out the whole analysis by reviewing the project notebook or you can read my first article on Medium for explanations: 
